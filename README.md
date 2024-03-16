@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, This is Rishabh</h1>
+<h1 align="center">Hi 👋, This is <a href="https://rishabhvrm.github.io/portfolio/)" target="_blank" rel="noopener noreferrer"> Rishabh </a> </h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhvrm&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhvrm" /> </p>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📄 Checkout my <a href="https://drive.google.com/file/d/1urT8c8h6UiwYLz7HzV3HjphaNKdA7bnG/view" target="_blank" rel="noopener noreferrer"> Resume </a>
 
-<h3 align="left">Say Hi !:</h3>
+<h3 align="left">Say Hi!</h3>
 <p align="left">
 <a href="mailto:rishabhvrm43@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" 
