@@ -24,17 +24,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You're Awesome
 
-- 📄 Checkout my <a href="https://drive.google.com/file/d/1urT8c8h6UiwYLz7HzV3HjphaNKdA7bnG/view" target="blank"> Resume </a>
+- 📄 Checkout my <a href="https://drive.google.com/file/d/1urT8c8h6UiwYLz7HzV3HjphaNKdA7bnG/view" target="_blank"> Resume </a>
 
 <h3 align="left">Say Hi !:</h3>
 <p align="left">
-<a href="mailto:rishabhvrm43@gmail.com" target="blank">
+<a href="mailto:rishabhvrm43@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" 
       alt="rishabhvrm43@gmail.com" height="27" width="37" />
 </a>
-<a href="https://linkedin.com/in/rishabhvrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabhvrm" height="30" width="40" /></a>
-<a href="https://instagram.com/rishabh_vrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh_vrm" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishabhvrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabhvrm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishabhvrm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabhvrm" height="30" width="40" /></a>
+<a href="https://instagram.com/rishabh_vrm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh_vrm" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rishabhvrm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabhvrm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
