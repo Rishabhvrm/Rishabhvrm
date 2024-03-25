@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">, This is <a href="https://rishabhvrm.github.io/portfolio/" target="_blank" rel="noopener noreferrer"> Rishabh </a> </h2>
-<h4 align="center">4 years experienced Software Developer</h4>
+<h4 align="center">Software Developer (4 YOE)</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhvrm&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhvrm" /> </p>
 
