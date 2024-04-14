@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You're Awesome
 - 📄 Checkout my <a href="https://drive.google.com/file/d/1urT8c8h6UiwYLz7HzV3HjphaNKdA7bnG/view" target="_blank" rel="noopener noreferrer"> Resume </a>
-
+- 🔭 [Seeking novelty and challenge](https://www.youtube.com/watch?v=o0XGYyz9Ixo&ab_channel=TEDAudioCollective)
 ---
 
 <h3 align="left">Say Hi!</h3>
